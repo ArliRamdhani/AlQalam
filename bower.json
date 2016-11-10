@@ -1,0 +1,12 @@
+{
+  "name": "AlQalam",
+  "version":"0.0.1",
+  "dependencies": {
+    "jquery": "~3.0.0",
+    "bootstrap": "4.0",
+    "MDBootstrap":"4.1.1"
+  },
+  "resolutions": {
+    "jquery": "1.9.1 - 2"
+  }
+}
